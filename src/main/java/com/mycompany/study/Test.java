@@ -5,19 +5,26 @@
  */
 package com.mycompany.study;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
-import java.util.stream.Collectors;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  *
- * @author admin
+ * @author akash arora
  */
 public class Test {
     public static void main(String args[]){
-        
+        Map<String,Integer> map = new HashMap<>();
+         for(int i=0; i<nums.length;i++){
+             map.put(nums[i],i);
+         }
+         for(int i=0; i<nums.length;i++){
+             int val = nums[i];
+             int mapKey = target-val;
+             if(map.g){
+
+             }
+         }
     }
+    
 }

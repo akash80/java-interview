@@ -7,7 +7,7 @@ package test;
 
 /**
  *
- * @author admin
+ * @author akash arora
  */
 public class SuperClass implements InterFaceTest{
     int i = 10;

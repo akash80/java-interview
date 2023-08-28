@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  *
- * @author admin
+ * @author akash arora
  */
 public final class Employee implements Cloneable{
     private String name;

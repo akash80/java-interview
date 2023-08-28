@@ -9,7 +9,7 @@ import java.math.BigInteger;
 
 /**
  *
- * @author admin
+ * @author akash arora
  */
 public class MethodOverriding extends SuperClass{
     int i = 20;

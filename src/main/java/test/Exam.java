@@ -7,7 +7,7 @@ package test;
 
 /**
  *
- * @author admin
+ * @author akash arora
  */
 public class Exam {
     public static void main(String args[]){

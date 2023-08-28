@@ -7,7 +7,7 @@ package test;
 
 /**
  *
- * @author admin
+ * @author akash arora
  */
 interface SortAlgirithem {
     int[] sort();
